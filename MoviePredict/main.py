@@ -83,7 +83,7 @@ print('lets look at the rations of ratings now')
 
 print("Pos-to-neg ratio for 'the' = {}".format(pos_neg_ratios["the"]))
 print("Pos-to-neg ratio for 'amazing' = {}".format(pos_neg_ratios["amazing"]))
-print("Pos-to-neg ratio for 'terrible' = {}".format(pos_neg_ratios["terrible"]))
+print("Pos-to-neg ratio for 'terrible' = {}".format(pos_neg_ratios["terrible"]))	
 
 
 print('Convert ratios to logs')
