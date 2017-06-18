@@ -1,0 +1,3 @@
+++++predicts a movie rating based upon a history of movie reviews and labels++++++++
+++++++requirements++++++
+numpy, jupyter notebook, matplotlib, scikit-learn, and bokeh.
