@@ -1,0 +1,13 @@
+*******************************
+need to install numpy pandas matplotlib
+
+now install tensorflow 
+pip or conda install scipy h5py
+pip install tensorflow
+pip install TFLearn
+
+
+takes the  all images, converts the pixels into an array, flattens the data, trains on the data and can be used to predict accuracy. 
+
+If you want to see the digit in the code, uncomment the display in demo.py
+
